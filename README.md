@@ -1,6 +1,4 @@
-# chef-demo
-Chef Solo + Vagrant demo for DevOps course
--
+## Chef Solo + Vagrant demo for DevOps course
 
 Устанавливаем gems из Gemfile с помощью bundler
 ```bash
